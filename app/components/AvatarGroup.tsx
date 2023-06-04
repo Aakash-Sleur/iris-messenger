@@ -27,7 +27,9 @@ const AvatarGroup: React.FC<AvatarGroupProps> = ({
         ">
             {
                 sliceUsers.map((user, index) => (
-                    <div className={`
+                    <div
+                        key={user.id}
+                        className={`
                     absolute
                     inline-block
                     rounded-full
