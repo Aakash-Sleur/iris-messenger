@@ -6,11 +6,21 @@ This is messenger inspired chat app where you can chat one to one or with your f
  - Real time One-to-One Chat
  - Real time Group chat
  - Login with google & github
- - Image and text based chat support
- - Responsive design
+ - Google Authentication
+ - Github Authentiction
+ - Credential Authentication using Next Auth
+ - Profile customization
+ - Server message display using React Toast
+ - Image chat using Cloudinary
+ - Responsive design across all devices
+ - Create and manage chat room
  - Image preview
- - Edit Profile option
- - Active state indicator
+ - User active state indicator
+
+## Live Application
+
+https://iris-messenger-gcx3g7azy-aakash-sleur.vercel.app
+
 
 ## Getting Started
 
