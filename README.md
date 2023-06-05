@@ -1,6 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Description
+
+This is messenger inspired chat app where you can chat one to one or with your friends in group anywhere everywhere.
+
+## Features
+ - Real time One-to-One Chat
+ - Real time Group chat
+ - Login with google & github
+ - Image and text based chat support
+ - Responsive design
+ - Image preview
+ - Edit Profile option
+ - Active state indicator
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 First, run the development server:
 
